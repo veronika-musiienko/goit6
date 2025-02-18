@@ -1,1 +1,1 @@
-# goit6
+# goit-hw-1
